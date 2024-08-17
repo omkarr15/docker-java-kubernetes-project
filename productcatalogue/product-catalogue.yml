@@ -7,4 +7,4 @@ server:
     port: 8020
   adminConnectors:
   - type: http
-    port: 8025
+    port: 8020
